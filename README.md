@@ -1,7 +1,7 @@
 # The Incredible Rise of UPI
 
 ## Overview
-This project aims to analyze and visualize the exponential rise of UPI payments against credit and debit card transactions in India's digital payment system from Jan-21 to Jun-22. The data is sourced from the official government websites of NPCI (National Payments Corporation of India) and RBI (Reserve Bank of India), The data has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
+This project aims to analyze and visualize the exponential rise of UPI payments against credit and debit card transactions in India's digital payment system from Jan-21 to Jun-22. The data is sourced from the official government websites of NPCI (National Payments Corporation of India) and RBI (Reserve Bank of India). The data has been processed using Power BI to create a database for easy management, analysis, and exploration of the data visually and to gain valuable insights.
 
 ## Dataset
 The dataset used in this project contains historical data of the exponential rise of UPI payments against credit and debit card transactions in India's digital payment system from Jan-21 to Jun-22. The data has been sourced from the official government websites of [NPCI](https://www.npci.org.in/) and [RBI](https://rbi.org.in/), which ensures its authenticity and reliability. The dataset includes information such as name of UPI apps, transaction values, transaction volumes and time period (date, month, year).
