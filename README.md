@@ -32,5 +32,8 @@ Click the link to access the interactive dashboard - [UPI vs Cards](https://app.
 - [Twitter](https://twitter.com/PrateekC_DS)
 - [prateek-chauhan.com](https://prateek-chauhan.com/)
 
+## License
+[MIT License](/LICENSE) 
+
 ## Contact Me!
 Feel free to contact me at [Prateek Chauhan](mailto:prateekchauhan.ds@gmail.com) for any data-related projects, collaborations, questions or suggestions.
